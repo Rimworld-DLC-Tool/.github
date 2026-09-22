@@ -7,7 +7,7 @@ An all-in one tool that automatically unlocks and activates DLCs in **Rimworld**
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Rimworld-DLC-Tool/.github/releases/)
   
 > Linux and macOS support may vary depending on the current release.
 
